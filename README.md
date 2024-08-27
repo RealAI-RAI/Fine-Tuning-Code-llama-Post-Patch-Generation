@@ -27,7 +27,7 @@ Additionally, ensure you have the `transformers` library installed, which provid
 
 ## Configuration
 
-You can modify the following parameters in the `generate_post_patch.py` file:
+You can modify the following parameters in the `Code_llama_Fine_Tuning_Post_Patch_Generation.ipynb` file:
 
 - `MODEL_NAME`: Specify the CodeLlama model name (e.g., "codellama/CodeLlama-7b-Python-hf")
 - `DATASET_FILE`: Path to your dataset file
